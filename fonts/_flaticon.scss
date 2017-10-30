@@ -1,0 +1,99 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 02/10/2017 15:22
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-volunteer-19:before { content: "\f100"; }
+.flaticon-002-volunteer-18:before { content: "\f101"; }
+.flaticon-003-volunteer-17:before { content: "\f102"; }
+.flaticon-004-volunteer-16:before { content: "\f103"; }
+.flaticon-005-donation-3:before { content: "\f104"; }
+.flaticon-006-volunteer-15:before { content: "\f105"; }
+.flaticon-007-protester:before { content: "\f106"; }
+.flaticon-008-volunteer-14:before { content: "\f107"; }
+.flaticon-009-volunteer-13:before { content: "\f108"; }
+.flaticon-010-volunteer-12:before { content: "\f109"; }
+.flaticon-011-volunteer-11:before { content: "\f10a"; }
+.flaticon-012-walking-the-dog:before { content: "\f10b"; }
+.flaticon-013-babysitter:before { content: "\f10c"; }
+.flaticon-014-volunteer-10:before { content: "\f10d"; }
+.flaticon-015-volunteer-9:before { content: "\f10e"; }
+.flaticon-016-demonstration:before { content: "\f10f"; }
+.flaticon-017-volunteer-8:before { content: "\f110"; }
+.flaticon-018-volunteer-7:before { content: "\f111"; }
+.flaticon-019-donation-2:before { content: "\f112"; }
+.flaticon-020-donation-1:before { content: "\f113"; }
+.flaticon-021-volunteer-6:before { content: "\f114"; }
+.flaticon-022-volunteer-5:before { content: "\f115"; }
+.flaticon-023-blood-donation:before { content: "\f116"; }
+.flaticon-024-donation:before { content: "\f117"; }
+.flaticon-025-volunteer-4:before { content: "\f118"; }
+.flaticon-026-volunteer-3:before { content: "\f119"; }
+.flaticon-027-help:before { content: "\f11a"; }
+.flaticon-028-volunteer-2:before { content: "\f11b"; }
+.flaticon-029-volunteer-1:before { content: "\f11c"; }
+.flaticon-030-volunteer:before { content: "\f11d"; }
+    
+    $font-Flaticon-001-volunteer-19: "\f100";
+    $font-Flaticon-002-volunteer-18: "\f101";
+    $font-Flaticon-003-volunteer-17: "\f102";
+    $font-Flaticon-004-volunteer-16: "\f103";
+    $font-Flaticon-005-donation-3: "\f104";
+    $font-Flaticon-006-volunteer-15: "\f105";
+    $font-Flaticon-007-protester: "\f106";
+    $font-Flaticon-008-volunteer-14: "\f107";
+    $font-Flaticon-009-volunteer-13: "\f108";
+    $font-Flaticon-010-volunteer-12: "\f109";
+    $font-Flaticon-011-volunteer-11: "\f10a";
+    $font-Flaticon-012-walking-the-dog: "\f10b";
+    $font-Flaticon-013-babysitter: "\f10c";
+    $font-Flaticon-014-volunteer-10: "\f10d";
+    $font-Flaticon-015-volunteer-9: "\f10e";
+    $font-Flaticon-016-demonstration: "\f10f";
+    $font-Flaticon-017-volunteer-8: "\f110";
+    $font-Flaticon-018-volunteer-7: "\f111";
+    $font-Flaticon-019-donation-2: "\f112";
+    $font-Flaticon-020-donation-1: "\f113";
+    $font-Flaticon-021-volunteer-6: "\f114";
+    $font-Flaticon-022-volunteer-5: "\f115";
+    $font-Flaticon-023-blood-donation: "\f116";
+    $font-Flaticon-024-donation: "\f117";
+    $font-Flaticon-025-volunteer-4: "\f118";
+    $font-Flaticon-026-volunteer-3: "\f119";
+    $font-Flaticon-027-help: "\f11a";
+    $font-Flaticon-028-volunteer-2: "\f11b";
+    $font-Flaticon-029-volunteer-1: "\f11c";
+    $font-Flaticon-030-volunteer: "\f11d";
