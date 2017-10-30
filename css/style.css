@@ -1,0 +1,327 @@
+@font-face {
+  font-family: 'MerriweatherBold';
+  src: url('../fonts/MerriweatherBold.eot');
+  src: url('../fonts/MerriweatherBold.eot') format('embedded-opentype'), url('../fonts/MerriweatherBold.woff2') format('woff2'), url('../fonts/MerriweatherBold.woff') format('woff'), url('../fonts/MerriweatherBold.ttf') format('truetype'), url('../fonts/MerriweatherBold.svg#MerriweatherBold') format('svg');
+}
+@font-face {
+  font-family: 'MerriweatherRegular';
+  src: url('../fonts/MerriweatherRegular.eot');
+  src: url('../fonts/MerriweatherRegular.eot') format('embedded-opentype'), url('../fonts/MerriweatherRegular.woff2') format('woff2'), url('../fonts/MerriweatherRegular.woff') format('woff'), url('../fonts/MerriweatherRegular.ttf') format('truetype'), url('../fonts/MerriweatherRegular.svg#MerriweatherRegular') format('svg');
+}
+@font-face {
+  font-family: 'merriweather_allfont_ru';
+  src: url('../fonts/merriweather_allfont_ru.eot');
+  src: url('../fonts/merriweather_allfont_ru.eot') format('embedded-opentype'), url('../fonts/merriweather_allfont_ru.woff2') format('woff2'), url('../fonts/merriweather_allfont_ru.woff') format('woff'), url('../fonts/merriweather_allfont_ru.ttf') format('truetype'), url('../fonts/merriweather_allfont_ru.svg#merriweather_allfont_ru') format('svg');
+}
+section#main {
+  background: url(../img/First-Img-Menu.jpg) no-repeat center center;
+  height: 960px;
+  width: 100%;
+}
+section#main #first {
+  margin-top: 50px;
+  font-family: 'MerriweatherRegular';
+  margin-left: 600px;
+}
+section#main #first #H {
+  position: absolute;
+  color: black;
+  border: none;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+section#main #first #H:hover {
+  border: 1px solid #686868;
+}
+section#main #first #S {
+  position: absolute;
+  margin-left: -10px;
+  color: black;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+section#main #first #S:hover {
+  border: 1px solid #686868;
+}
+section#main #first #A {
+  position: absolute;
+  margin-left: -5px;
+  color: black;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+section#main #first #A:hover {
+  border: 1px solid #686868;
+}
+section#main #first #M {
+  position: absolute;
+  margin-left: -15px;
+  color: black;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+section#main #first #M:hover {
+  border: 1px solid #686868;
+}
+section#main #first #C {
+  position: absolute;
+  margin-left: -25px;
+  color: black;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+section#main #first #C:hover {
+  border: 1px solid #686868;
+}
+section#main #second {
+  font-family: 'merriweather_allfont_ru';
+  margin-top: 350px;
+}
+section#main #second h1 {
+  margin-left: 670px;
+}
+section#main #second img {
+  margin-left: 670px;
+}
+section#Second {
+  background: url(../img/BG-2.jpg);
+  height: 383px;
+}
+section#Second #images {
+  font-family: 'Merriweatherbold';
+  font-size: 15px;
+  margin-top: 85px;
+}
+section#Second #images #a {
+  margin-left: -15px;
+}
+section#Second #images #b {
+  margin-left: 100px;
+}
+section#Second #images #c {
+  margin-left: 195px;
+}
+section#Second #images #ai {
+  margin-left: 0px;
+}
+section#Second #images #bi {
+  margin-left: 100px;
+  margin-top: 11px;
+}
+section#Second #images #ci {
+  margin-left: 200px;
+  margin-top: 1px;
+}
+section#Second #images #texta {
+  position: absolute;
+  font-family: 'merriweather_allfont_ru';
+  font-size: 10px;
+  margin-top: 20px;
+  margin-left: -65px;
+}
+section#Second #images #textc {
+  position: absolute;
+  font-family: 'merriweather_allfont_ru';
+  font-size: 10px;
+  margin-top: 20px;
+  margin-left: 120px;
+}
+section#Second #images #textd {
+  position: absolute;
+  font-family: 'merriweather_allfont_ru';
+  font-size: 10px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+section#ThisMonth {
+  height: 834px;
+}
+section#AboutUs {
+  background-color: #eeefef;
+  height: 800px;
+}
+section#AboutUs h2 {
+  font-family: 'merriweather_allfont_ru';
+  font-size: 30px;
+  margin-top: 200px;
+  margin-left: -300px;
+}
+section#AboutUs p {
+  font-family: 'MerriweatherRegular';
+  font-size: 15px;
+  color: #7b7b7b;
+  margin-top: 65px;
+  margin-left: -300px;
+}
+section#AboutUs #signa {
+  margin-left: 300px;
+  margin-top: 40px;
+  margin-left: -200px;
+}
+section#AboutUs #decoration {
+  width: 220px;
+  margin-left: -300px;
+}
+section#AboutUs #goroh {
+  margin-left: -150px;
+}
+section#Contact {
+  background: url(../img/Contact-bg-fon.jpg) no-repeat center;
+  height: 950px;
+}
+section#Contact #first {
+  margin-left: 900px;
+}
+section#Contact #first h2 {
+  font-family: 'merriweather_allfont_ru';
+}
+section#Contact #first img {
+  margin-left: -65px;
+  width: 250px;
+}
+section#Contact #first #first-block {
+  margin-top: 50px;
+  margin-left: -300px;
+}
+section#Contact #first #first-block h3 {
+  font-family: 'MerriweatherRegular';
+  font-size: 20px;
+  color: #3c3c3c;
+}
+section#Contact #first #first-block p {
+  font-family: 'merriweather_allfont_ru';
+  font-size: 15px;
+  color: #3c3c3c;
+}
+section#Contact #first #second-block {
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 100px;
+}
+section#Contact #first #second-block h3 {
+  font-family: 'MerriweatherRegular';
+  font-size: 20px;
+  color: #3c3c3c;
+}
+section#Contact #first #second-block p {
+  font-family: 'merriweather_allfont_ru';
+  font-size: 15px;
+  color: #3c3c3c;
+}
+section#Contact input::-webkit-input-placeholder {
+  color: black;
+}
+section#Contact input::-moz-placeholder {
+  color: black;
+}
+section#Contact input:-moz-placeholder {
+  color: black;
+}
+section#Contact input:-ms-input-placeholder {
+  color: black;
+}
+section#Contact #second h3 {
+  font-family: 'merriweather_allfont_ru';
+  font-size: 18px;
+  color: #3c3c3c;
+  margin-left: 615px;
+  margin-top: 105px;
+}
+section#Contact #second #form {
+  position: absolute;
+  margin-top: 45px;
+}
+section#Contact #second #form #first {
+  position: absolute;
+  font-family: 'MerriweatherRegular';
+  font-size: 15px;
+  color: black;
+  width: 255px;
+  margin-left: 615px;
+  border: none;
+  background-color: transparent;
+}
+section#Contact #second #form #first:focus {
+  outline: none;
+}
+section#Contact #second #form #second {
+  position: absolute;
+  font-family: 'MerriweatherRegular';
+  font-size: 15px;
+  color: black;
+  width: 255px;
+  margin-left: 950px;
+  border: none;
+  background-color: transparent;
+}
+section#Contact #second #form #second:focus {
+  outline: none;
+}
+section#Contact #second #form #third {
+  position: absolute;
+  font-family: 'MerriweatherRegular';
+  font-size: 15px;
+  color: black;
+  width: 570px;
+  margin-left: 600px;
+  margin-top: 100px;
+  border: none;
+  background-color: transparent;
+}
+section#Contact #second #form #third:focus {
+  outline: none;
+}
+section#Contact #second button {
+  font-family: 'merriweather_allfont_ru';
+  font-size: 15px;
+  color: #3c3c3c;
+  background-color: transparent;
+  border: 1px solid #3c3c3c;
+  padding: 10px 25px 10px 25px;
+  margin-top: 180px;
+  margin-left: 840px;
+}
+section#Contact #second button:focus {
+  outline: none;
+}
+section#Contact #Third p {
+  position: absolute;
+  font-family: 'merriweather_allfont_ru';
+  font-size: 15px;
+  margin-left: 390px;
+  margin-top: 235px;
+}
+section#Contact #Third #first {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 1240px;
+}
+section#Contact #Third #second {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 1160px;
+}
+section#Contact hr {
+  height: 1px;
+  width: 250px;
+  background-color: black;
+  border: none;
+  margin-left: 585px;
+  margin-top: 75px;
+}
+section#Contact #second-hr {
+  height: 1px;
+  width: 250px;
+  background-color: black;
+  border: none;
+  margin-left: 910px;
+  margin-top: -22px;
+}
+section#Contact #third-hr {
+  height: 1px;
+  width: 580px;
+  background-color: black;
+  border: none;
+  margin-left: 580px;
+  margin-top: 100px;
+}

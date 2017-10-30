@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'd9464arkhip_font';
+    src: url('fonts/d9464arkhip_font.eot');
+    src: url('fonts/d9464arkhip_font.eot') format('embedded-opentype'),
+         url('fonts/d9464arkhip_font.woff2') format('woff2'),
+         url('fonts/d9464arkhip_font.woff') format('woff'),
+         url('fonts/d9464arkhip_font.ttf') format('truetype'),
+         url('fonts/d9464arkhip_font.svg#d9464arkhip_font') format('svg');
+}
